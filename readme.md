@@ -1,4 +1,3 @@
-# 李昀澤
-1. 資工大二
-2. 寫作業
-3. 睡覺
+# Exfruit
+1. NCTUCS
+2. I want to sleep.
